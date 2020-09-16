@@ -18,9 +18,11 @@ function App() {
         >
           Learn React
         </a>
+        
       </header>
     </div>
   );
 }
+// this world is full of the world of the new technologies can you compete with them.
 
 export default App;
